@@ -1,0 +1,121 @@
+{
+  "scannedAt": "2026-09-17T06:02:00.872Z",
+  "targetDirectory": "C:\\Users\\maksc\\my-node-app",
+  "variant": 18,
+  "totals": {
+    "folders": 59,
+    "files": 98,
+    "sizeBytes": 67329,
+    "sizeHuman": "65.8 КБ"
+  },
+  "byExtension": {
+    "(без расширения)": {
+      "count": 59,
+      "size": 24409
+    },
+    ".sample": {
+      "count": 14,
+      "size": 25827
+    },
+    ".js": {
+      "count": 8,
+      "size": 15404
+    },
+    ".txt": {
+      "count": 9,
+      "size": 1163
+    },
+    ".json": {
+      "count": 1,
+      "size": 247
+    },
+    ".md": {
+      "count": 7,
+      "size": 279
+    }
+  },
+  "top5Biggest": [
+    {
+      "name": "pre-rebase.sample",
+      "path": ".git\\hooks\\pre-rebase.sample",
+      "size": 4898
+    },
+    {
+      "name": "fsmonitor-watchman.sample",
+      "path": ".git\\hooks\\fsmonitor-watchman.sample",
+      "size": 4726
+    },
+    {
+      "name": "task3-scan.js",
+      "path": "task3-scan.js",
+      "size": 4448
+    },
+    {
+      "name": "update.sample",
+      "path": ".git\\hooks\\update.sample",
+      "size": 3650
+    },
+    {
+      "name": "task2-dirs.js",
+      "path": "task2-dirs.js",
+      "size": 3598
+    }
+  ],
+  "top5Smallest": [
+    {
+      "name": "{",
+      "path": "{",
+      "size": 0
+    },
+    {
+      "name": "9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "path": ".git\\objects\\e6\\9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 15
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "size": 33
+    },
+    {
+      "name": "README.md",
+      "path": "project_18\\src\\README.md",
+      "size": 34
+    },
+    {
+      "name": "README.md",
+      "path": "project_18\\data\\README.md",
+      "size": 35
+    }
+  ],
+  "variantNamedFiles": [
+    {
+      "name": "34343f7560eb66d48b243f786f8418137e3dc5",
+      "path": ".git\\objects\\0d\\34343f7560eb66d48b243f786f8418137e3dc5"
+    },
+    {
+      "name": "29f19d4256ed8fffa18e7c37317cb563653f0f",
+      "path": ".git\\objects\\6e\\29f19d4256ed8fffa18e7c37317cb563653f0f"
+    },
+    {
+      "name": "d06036e47f24918d53fd5d5e1033c3df08ccd0",
+      "path": ".git\\objects\\8d\\d06036e47f24918d53fd5d5e1033c3df08ccd0"
+    },
+    {
+      "name": "4b842697440c4185d344c0927e9b9e4f185a3d",
+      "path": ".git\\objects\\bf\\4b842697440c4185d344c0927e9b9e4f185a3d"
+    },
+    {
+      "name": "5d286c085e2fcf6c8d9a0451892c5f8eb9ba24",
+      "path": ".git\\objects\\cd\\5d286c085e2fcf6c8d9a0451892c5f8eb9ba24"
+    },
+    {
+      "name": "82a0d21baef0187df56179081ed4427c0599ce",
+      "path": ".git\\objects\\d2\\82a0d21baef0187df56179081ed4427c0599ce"
+    },
+    {
+      "name": "student_18.txt",
+      "path": "student_18.txt"
+    }
+  ]
+}
