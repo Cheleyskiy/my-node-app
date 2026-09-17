@@ -1,0 +1,2 @@
+[2026-09-14T06:01:36.090Z] server:started: {"port":3000}
+[2026-09-14T06:01:46.094Z] server:stopped: {}
