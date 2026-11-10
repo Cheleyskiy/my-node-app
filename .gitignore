@@ -1,3 +1,7 @@
 node_modules/ 
 .env 
-.DS_Store 
+.DS_Store
+my-cli-win.exe
+config.json.bak
+result.json
+dist/
