@@ -8,5 +8,9 @@ access.log
 big-file.txt
 cert.pem
 key.pem
+students.csv
+errors.log
+input.txt
+output-*.txt
 public/
 dist/
