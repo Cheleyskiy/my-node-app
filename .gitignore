@@ -4,4 +4,9 @@ node_modules/
 my-cli-win.exe
 config.json.bak
 result.json
+access.log
+big-file.txt
+cert.pem
+key.pem
+public/
 dist/
